@@ -33,7 +33,8 @@ Execução simples de cada notebook já trás as respostas necessárias. Propost
 
 ## To Do
 
- - Integração entre a inteligência criado com o dashboard.
+ - Integração entre a inteligência criado com o dashboard;
+ - Demais Market Places e sites relacionados.
 
 ## Licença
 
