@@ -40,6 +40,11 @@ Execução simples de cada notebook já trás as respostas necessárias. Propost
  - Integração entre a inteligência criado com o dashboard;
  - Demais Market Places e sites relacionados.
 
+## links
+
+https://www.kaggle.com/olistbr/brazilian-ecommerce/download
+
+
 ## Licença
 
 Livre
