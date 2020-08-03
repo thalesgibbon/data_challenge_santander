@@ -16,7 +16,7 @@ Após o cadastro de sua empresa/loja, nosso cliente poderá visualizar rapidamen
 
 O DataCrisis foi construído com as bibliotecas:
 
-* [Python 3.6] - Scraping com as principais bibliotecas
+* [Python 3.6] - Scraping e NLP com as principais bibliotecas.
 
 ## Instalação
 
