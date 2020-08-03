@@ -10,7 +10,7 @@ Após o cadastro de sua empresa/loja, nosso cliente poderá visualizar rapidamen
   - [Dashboard](http://datachallenge.erickribeiro.me/): Visão cliente para acompanhar os indicadores;
   - [Google](https://github.com/thalesgibbon/data_challenge_santander/blob/master/Google.ipynb): Scraping do site da Google para achar o index;
   - [Mercado Livre](https://github.com/thalesgibbon/data_challenge_santander/blob/master/MercadoLivre.ipynb): Scraping do market place Mercado Livre para char o index dos produtos;
-  - [Mercado Livre](https://github.com/thalesgibbon/data_challenge_santander/blob/master/Data_Challenge_NLP.ipynb): Análise focada no comportamento do consumidor, com o objetivo de encontrar possíveis oportunidades de crescimento, assim como garantir a reputação.
+  - [Olist NLP](https://github.com/thalesgibbon/data_challenge_santander/blob/master/Data_Challenge_NLP.ipynb): Análise focada no comportamento do consumidor, com o objetivo de encontrar possíveis oportunidades de crescimento, assim como garantir a reputação.
   
 ## Construido com:
 
