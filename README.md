@@ -16,7 +16,10 @@ Após o cadastro de sua empresa/loja, nosso cliente poderá visualizar rapidamen
 
 O DataCrisis foi construído com as bibliotecas:
 
+* [IBM CLOUD] - Storage dos arquivos e intância das máquinas para processamento.
+* [IBM WATSON] - Stack Analítica para dados.
 * [Python 3.6] - Scraping e NLP com as principais bibliotecas.
+
 
 ## Instalação
 
