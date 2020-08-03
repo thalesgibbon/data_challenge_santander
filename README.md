@@ -27,7 +27,7 @@ Execução simples de cada notebook já trás as respostas necessárias. Propost
 |---|---|
 | Alexandre Andrade | @aleandrade |
 | Ernani Britto | @ |
-| Erick Ribeiro  | @ |
+| Erick Ribeiro  | @erick-ribeiro |
 | Thales Gibbon | @thalesgibbon |
 | Victor Galves  | @victorhgalves  |
 
